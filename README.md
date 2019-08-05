@@ -22,3 +22,17 @@ $ flutter create flutter_practice
 ```
 
 - `-` 문자는 허용되지 않습니다.
+
+## how to learn
+
+- https://www.youtube.com/watch?v=6ZCz6Ylqk3A
+
+### 1. widgets & the basics
+
+#### widgets
+
+- https://youtu.be/6ZCz6Ylqk3A?t=4612
+
+materialapp : https://api.flutter.dev/flutter/material/MaterialApp-class.html
+
+scaffold : https://api.flutter.dev/flutter/material/Scaffold-class.html
