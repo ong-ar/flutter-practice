@@ -27,12 +27,14 @@ $ flutter create flutter_practice
 
 - https://www.youtube.com/watch?v=6ZCz6Ylqk3A
 
-### 1. widgets & the basics
-
-#### widgets
+### widgets
 
 - https://youtu.be/6ZCz6Ylqk3A?t=4612
 
 materialapp : https://api.flutter.dev/flutter/material/MaterialApp-class.html
 
 scaffold : https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+### lifecycle
+
+http://blog.naver.com/PostView.nhn?blogId=deepplin&logNo=221439113975&parentCategoryNo=&categoryNo=301&viewDate=&isShowPopularPosts=true&from=search
